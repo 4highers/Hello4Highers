@@ -1,4 +1,10 @@
 <div align="center">
+  
+  # Hello 4Highers!!! 🚀🚀🚀
+  
+  ![logo](https://github.com/4highers/Hello4Highers/blob/main/pics/logo.jpeg)
+  
+</div>
 
 ## Introduction
 
@@ -19,6 +25,6 @@
 
 ## Purpose 👀
 
-虽然，大家在毕业后已各奔东西，但是我们仍然可以聚集在一起，做有趣、充满挑战的事情！
+虽然，大家在毕业后已各奔东西，但是，我们仍然可以聚集在一起，做有趣、充满挑战的事情！
 
 我们的校训是！**爱国利民  因时应事  整齐严肃  德达材实**
