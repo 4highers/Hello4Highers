@@ -1,10 +1,4 @@
 <div align="center">
-  
-# Hello4Highers!  🚀
-
-![logo](./pics/logo.jpeg)
-
-</div>
 
 ## Introduction
 
